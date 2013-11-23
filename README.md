@@ -3,4 +3,4 @@ Emacs
 
 #Install#
 
-git clone https://github.com/purcell/emacs.d.git ~/.emacs.d
+git clone https://github.com/abccb1/Emacs.git ~/.emacs.d
